@@ -44,4 +44,8 @@ export default defineSiteConfig({
   sponsor: {
     enable: false,
   },
+
+  encrypt: {
+    enable: true,
+  },
 })
