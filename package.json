@@ -1,7 +1,7 @@
 {
   "name": "meetlty.github.io",
   "type": "module",
-  "version": "0.16.2",
+  "version": "0.16.3",
   "private": true,
   "scripts": {
     "build": "npm run build:ssg && npm run rss && npm run fuse",
@@ -10,11 +10,12 @@
     "dev": "valaxy",
     "rss": "valaxy rss",
     "serve": "vite preview",
-    "fuse": "valaxy fuse"
+    "fuse": "valaxy fuse",
+    "new": "valaxy new"
   },
   "dependencies": {
-    "valaxy": "^0.16.2",
-    "valaxy-theme-yun": "^0.16.2"
+    "valaxy": "^0.16.3",
+    "valaxy-theme-yun": "^0.16.3"
   },
   "devDependencies": {
     "typescript": "^5.2.2"
