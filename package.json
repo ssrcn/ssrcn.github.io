@@ -14,7 +14,6 @@
     "new": "valaxy new"
   },
   "dependencies": {
-    "@unhead/schema-org": "^1.8.10",
     "valaxy": "^0.17.2",
     "valaxy-theme-yun": "^0.17.2"
   },
