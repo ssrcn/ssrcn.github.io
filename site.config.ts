@@ -3,7 +3,7 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://luolingqing.github.io/',
   lang: 'zh-CN',
-  title: '洛绫卿',
+  title: '洛卿',
   author: {
     name: '惟依',
     avatar: 'https://avatars.githubusercontent.com/u/79364623'
@@ -20,7 +20,7 @@ export default defineSiteConfig({
     },
     {
       name: 'GitHub',
-      link: 'https://github.com/luolingqing',
+      link: 'https://github.com/cnlty',
       icon: 'i-ri-github-line',
       color: '#6e5494',
     },
