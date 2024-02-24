@@ -9,7 +9,7 @@ export default defineSiteConfig({
     avatar: 'https://avatars.githubusercontent.com/u/79364623'
   },
   favicon: 'https://avatars.githubusercontent.com/u/79364623',
-  subtitle: 'Chase',
+  subtitle: '天一生水 地六成之',
   description: '华风夏韵 洛水天依',
   social: [
     {

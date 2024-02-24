@@ -1,10 +1,10 @@
 [
     {
-        "url": "https://www.bilibili.com/festival/lty10th",
-        "avatar": "https://www.fanghsiu.top/images/10th.jpg",
-        "name": "洛天依十周年官方演唱会",
-        "blog": "洛天依十周年",
-        "desc": "洛天依十周年官方演唱会",
+        "url": "https://www.fanghsiu.top/",
+        "avatar": "https://www.fanghsiu.top/images/avatar.png",
+        "name": "方脩",
+        "blog": "方脩的随笔",
+        "desc": "",
         "color": "#66ccff"
     },
     {
@@ -16,11 +16,11 @@
         "color": "#66ccff"
     },
     {
-        "url": "https://www.fanghsiu.top/",
-        "avatar": "https://www.fanghsiu.top/images/avatar.png",
-        "name": "方脩",
-        "blog": "方脩的随笔",
-        "desc": "",
+        "url": "https://www.bilibili.com/festival/lty10th",
+        "avatar": "https://www.fanghsiu.top/images/10th.jpg",
+        "name": "洛天依十周年官方演唱会",
+        "blog": "洛天依十周年",
+        "desc": "洛天依十周年官方演唱会",
         "color": "#66ccff"
     }
 ]
