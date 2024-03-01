@@ -1,7 +1,7 @@
 {
   "name": "cnlty.github.io",
   "type": "module",
-  "version": "0.18.1",
+  "version": "0.18.5",
   "private": true,
   "scripts": {
     "build": "npm run build:ssg && npm run rss && npm run fuse",
@@ -14,8 +14,8 @@
     "new": "valaxy new"
   },
   "dependencies": {
-    "valaxy": "^0.18.1",
-    "valaxy-theme-yun": "^0.18.1"
+    "valaxy": "^0.18.5",
+    "valaxy-theme-yun": "^0.18.5"
   },
   "devDependencies": {
     "typescript": "^5.2.2"
