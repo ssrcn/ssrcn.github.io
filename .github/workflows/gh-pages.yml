@@ -36,4 +36,4 @@ jobs:
           github_token: ${{ secrets.VALAXY_TOKEN }}
           publish_dir: ./dist
           force_orphan: true
-          # cname: www.fanghsiu.tk
+          cname: www.icn.asia
