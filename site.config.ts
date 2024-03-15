@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://cnlty.github.io/',
+  url: 'https://www.icn.asia/',
   lang: 'zh-CN',
   title: '洛卿',
   author: {
