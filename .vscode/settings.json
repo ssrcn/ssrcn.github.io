@@ -1,5 +1,8 @@
 {
-  "cSpell.words": ["valaxy", "valaxyjs"],
+  "cSpell.words": [
+    "valaxy",
+    "valaxyjs"
+  ],
   "i18n-ally.sourceLanguage": "en",
   "i18n-ally.keystyle": "nested",
   "i18n-ally.localesPaths": "locales",
@@ -12,5 +15,7 @@
   "files.associations": {
     "*.css": "postcss"
   },
-  "svg.preview.background": "editor"
+  "svg.preview.background": "editor",
+  "editor.indentSize": "tabSize",
+  "editor.tabSize": 4
 }

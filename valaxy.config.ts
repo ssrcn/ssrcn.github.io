@@ -22,7 +22,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         enable: true,
       },
     },
-    
+
     bg_image: {
       enable: true,
       url: 'https://res.vsinger.com/images/f4f10b9b6f3ed076e68f1a1849481878.png',
@@ -33,17 +33,26 @@ export default defineValaxyConfig<UserThemeConfig>({
     pages: [
       {
         name: '友人帐',
-        url: '/links/',
+        url: '/links',
         icon: 'i-ri-user-star-line',
         color: 'dodgerblue',
       },
       {
         name: '铜雀台',
-        url: '/girls/',
+        url: '/girls',
         icon: 'i-ri-user-heart-line',
         color: 'hotpink',
       },
     ],
+
+    say: {
+      enable: true,
+      api: '/json/say.json',
+      hitokoto: {
+        enable: false,
+        api: '',
+      },
+    },
 
     footer: {
       since: 2012,
