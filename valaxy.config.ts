@@ -25,8 +25,10 @@ export default defineValaxyConfig<UserThemeConfig>({
 
     bg_image: {
       enable: true,
-      url: 'https://res.vsinger.com/images/f4f10b9b6f3ed076e68f1a1849481878.png',
-      dark: 'https://res.vsinger.com/images/f4f10b9b6f3ed076e68f1a1849481878.png',
+      // url: 'https://res.vsinger.com/images/f4f10b9b6f3ed076e68f1a1849481878.png',
+      // dark: 'https://res.vsinger.com/images/f4f10b9b6f3ed076e68f1a1849481878.png',
+      url: 'https://upload-bbs.miyoushe.com/upload/2024/03/21/162867316/553c623e38e0a6a65885570b8d3c20dd_7134508366031977457.png',
+      dark: 'https://upload-bbs.miyoushe.com/upload/2024/03/21/162867316/553c623e38e0a6a65885570b8d3c20dd_7134508366031977457.png',
       opacity: 0.35
     },
 
