@@ -3,7 +3,7 @@ title: 友人帐
 keywords: 链接
 description: 友人帐
 links: /json/links.json
-random: true
+random: false
 aside: false
 nav: false
 ---
