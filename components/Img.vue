@@ -12,12 +12,12 @@ const caption = props.caption || ""
 <template>
   <figure>
     <img referrerpolicy="no-referrer" :src="src" :alt="alt" loading="lazy" decoding="async" class="medium-zoom-image" />
-    <figcaption>{{ caption }}</figcaption>
+    <figcaption id="figcaption">{{ caption }}</figcaption>
   </figure>
 </template>
 
 <style lang="scss">
-.markdown-body figure figcaption {
+#figcaption {
   display: inline;
   font-size: 16px;
   font-style: italic;
