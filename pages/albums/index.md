@@ -1,5 +1,5 @@
 ---
-layout: albums
+layout: Albums
 # hide: true
 nav: false
 albums: [
