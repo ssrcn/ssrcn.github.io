@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "valaxy": "^0.18.5",
+    "valaxy-addon-lightgallery": "^0.0.2",
     "valaxy-theme-yun": "^0.18.5"
   },
   "devDependencies": {

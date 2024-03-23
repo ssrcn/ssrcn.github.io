@@ -1,4 +1,5 @@
 import { defineValaxyConfig } from 'valaxy'
+import { addonLightGallery } from 'valaxy-addon-lightgallery'
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 
 // add icons what you will need
@@ -45,6 +46,12 @@ export default defineValaxyConfig<UserThemeConfig>({
         icon: 'i-ri-user-heart-line',
         color: 'hotpink',
       },
+      {
+        name: '相册',
+        url: '/albums',
+        icon: 'i-ri-gallery-line',
+        color: '#6CF',
+      },
     ],
 
     say: {
@@ -70,4 +77,8 @@ export default defineValaxyConfig<UserThemeConfig>({
   },
 
   unocss: { safelist },
+  
+  addons: [
+    addonLightGallery(),
+  ],
 })
