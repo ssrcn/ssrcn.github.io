@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 import { useHead } from '@unhead/vue'
-import albums from 'valaxy-theme-yun/layouts/gallery.vue'
+import albums from 'valaxy-theme-yun/layouts/albums.vue'
 useHead({meta: [{name: 'referrer', content: 'no-referrer'}]})
 </script>
 
