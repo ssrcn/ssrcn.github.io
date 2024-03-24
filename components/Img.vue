@@ -12,15 +12,6 @@ const caption = props.caption || ""
 <template>
   <figure>
     <img referrerpolicy="no-referrer" :src="src" :alt="alt" loading="lazy" decoding="async" class="medium-zoom-image" />
-    <figcaption id="figcaption">{{ caption }}</figcaption>
+    <figcaption v-if="caption != ''">{{ caption }}</figcaption>
   </figure>
 </template>
-
-<style lang="scss">
-#figcaption {
-  display: inline;
-  font-size: 16px;
-  font-style: italic;
-  color: rgb(36, 41, 46);
-}
-</style>
