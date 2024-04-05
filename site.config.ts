@@ -6,9 +6,9 @@ export default defineSiteConfig({
   title: '洛卿',
   author: {
     name: '惟依',
-    avatar: '/avatar.jfif',
+    avatar: '/avatar.jpg',
   },
-  favicon: '/avatar.jfif',
+  favicon: '/avatar.jpg',
   subtitle: '天一生水 地六成之',
   description: '华风夏韵 洛水天依',
   social: [
