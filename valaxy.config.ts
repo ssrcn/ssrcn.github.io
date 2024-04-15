@@ -20,17 +20,17 @@ export default defineValaxyConfig<UserThemeConfig>({
       enable: true,
       title: '惟一的依',
       cloud: {
-        enable: true,
+        enable: false,
       },
     },
-
+  
     bg_image: {
       enable: true,
-      // url: 'https://res.vsinger.com/images/f4f10b9b6f3ed076e68f1a1849481878.png',
-      // dark: 'https://res.vsinger.com/images/f4f10b9b6f3ed076e68f1a1849481878.png',
-      url: 'https://upload-bbs.miyoushe.com/upload/2024/03/21/162867316/553c623e38e0a6a65885570b8d3c20dd_7134508366031977457.png',
-      dark: 'https://upload-bbs.miyoushe.com/upload/2024/03/21/162867316/553c623e38e0a6a65885570b8d3c20dd_7134508366031977457.png',
-      opacity: 0.35
+      // https://res.vsinger.com/images/f4f10b9b6f3ed076e68f1a1849481878.png
+      // https://upload-bbs.miyoushe.com/upload/2024/03/21/162867316/553c623e38e0a6a65885570b8d3c20dd_7134508366031977457.png
+      url: 'https://upload-bbs.miyoushe.com/upload/2023/11/20/73565430/78d5f594efe73e6b5bd7324deaaf44bf_4984281465701639136.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png',
+      dark: 'https://upload-bbs.miyoushe.com/upload/2023/11/20/73565430/78d5f594efe73e6b5bd7324deaaf44bf_4984281465701639136.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png',
+      // opacity: 0.35
     },
 
     pages: [
@@ -41,16 +41,16 @@ export default defineValaxyConfig<UserThemeConfig>({
         color: 'dodgerblue',
       },
       {
+        name: '相册',
+        url: '/albums',
+        icon: 'i-ri-gallery-line',
+        color: 'skyblue',
+      },
+      {
         name: '铜雀台',
         url: '/girls',
         icon: 'i-ri-user-heart-line',
         color: 'hotpink',
-      },
-      {
-        name: '相册',
-        url: '/albums',
-        icon: 'i-ri-gallery-line',
-        color: '#6CF',
       },
     ],
 

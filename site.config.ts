@@ -3,14 +3,14 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://www.icn.asia/',
   lang: 'zh-CN',
-  title: '洛卿',
+  title: '休伯利安',
   author: {
-    name: '惟依',
+    name: '壬午',
     avatar: '/avatar.jpg',
   },
   favicon: '/avatar.jpg',
-  subtitle: '天一生水 地六成之',
-  description: '华风夏韵 洛水天依',
+  subtitle: '休伯利安启航',
+  description: '永恒轮回的不沉之船',
   social: [
     {
       name: 'RSS',
