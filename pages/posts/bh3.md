@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 崩崩崩
+title: HonKai Impact 3
 date: 2024-04-15
 updated: 2024-04-15
 categories: [bh3]
@@ -8,6 +8,7 @@ tags: [bh3]
 end: false
 cover: https://upload-bbs.miyoushe.com/upload/2023/11/20/73565430/78d5f594efe73e6b5bd7324deaaf44bf_4984281465701639136.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png
 ---
+
 <details>
 <summary>Kevin</summary>
 <p style="text-align:center">
