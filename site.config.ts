@@ -8,7 +8,7 @@ export default defineSiteConfig({
     name: '壬午',
     avatar: '/avatar.jpg',
   },
-  favicon: '/avatar.jpg',
+  favicon: '/favicon.ico',
   subtitle: '休伯利安启航',
   description: '永恒轮回的不沉之船',
   social: [
