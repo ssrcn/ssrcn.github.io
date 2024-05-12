@@ -1,14 +1,17 @@
 ---
 layout: post
-title: HonKai Impact 3
-date: 2024-04-15
-updated: 2024-04-15
-categories: [bh3]
-tags: [bh3]
-end: false
+title: 崩坏3
+date: 2021-03-20
+categories: [mihoyo]
+tags: [mihoyo]
+# end: false
 # cover: https://upload-bbs.miyoushe.com/upload/2023/11/20/73565430/78d5f594efe73e6b5bd7324deaaf44bf_4984281465701639136.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png
 # cover: https://upload-bbs.miyoushe.com/upload/2023/02/21/73565430/81064aa6f2a41aa8ccfff738cc566661_377107797167084010.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png
 ---
+
+数据库资料：舰长于 2021-03-30 首次登陆休伯利安
+
+<!-- more -->
 
 <details>
 <summary>Kevin</summary>
