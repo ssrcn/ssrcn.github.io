@@ -23,7 +23,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         enable: false,
       },
     },
-  
+
     bg_image: {
       enable: true,
       // https://res.vsinger.com/images/f4f10b9b6f3ed076e68f1a1849481878.png
@@ -78,7 +78,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   },
 
   unocss: { safelist },
-  
+
   addons: [
     addonLightGallery(),
   ],

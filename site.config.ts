@@ -5,7 +5,7 @@ export default defineSiteConfig({
   lang: 'zh-CN',
   title: '休伯利安',
   author: {
-    name: '壬午',
+    name: '方仲',
     avatar: '/avatar.jpg',
   },
   favicon: '/favicon.ico',
