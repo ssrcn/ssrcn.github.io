@@ -1,6 +1,5 @@
 ---
 layout: Gallery
-# hide: true
 nav: false
 photos: [
     {

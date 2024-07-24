@@ -12,8 +12,8 @@ cover: https://uploadstatic.mihoyo.com/contentweb/20191114/2019111410133010929.j
 
 <!-- more -->
 
-:::details Kevin
-![Kevin](https://upload-bbs.miyoushe.com/upload/2023/02/21/73565430/81064aa6f2a41aa8ccfff738cc566661_377107797167084010.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
+:::details Kevin Kaslana  凯文·卡斯兰娜
+![Kevin Kaslana](https://upload-bbs.miyoushe.com/upload/2023/02/21/73565430/81064aa6f2a41aa8ccfff738cc566661_377107797167084010.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
 <p style="text-align:center">
 无关乎抉择，无关乎存亡——<br>
 此刻，万众的理想交汇为唯一的宏愿——<br>
