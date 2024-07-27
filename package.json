@@ -14,9 +14,9 @@
     "new": "valaxy new"
   },
   "dependencies": {
-    "valaxy": "^0.19.4",
+    "valaxy": "^0.19.5",
     "valaxy-addon-lightgallery": "^0.0.2",
-    "valaxy-theme-yun": "^0.19.4"
+    "valaxy-theme-yun": "^0.19.5"
   },
   "devDependencies": {
     "typescript": "^5.2.2"
