@@ -16,5 +16,5 @@ top: 1
 <Img src="https://i0.hdslb.com/bfs/new_dyn/898070e611feb78eb29d183bb59bc2153461563774142488.png@1044w_1044h.webp" alt="希儿特饮" caption="希儿特饮" />
 
 :::info
-作者：[末潞晴空](https://www.bilibili.com/opus/850177553510432792?spm_id_from=333.999.collection.opus.click) 出处：bilibili
+作者：[末潞晴空](https://space.bilibili.com/3461563774142488) 出处：[bilibili](https://www.bilibili.com/opus/850177553510432792)
 :::
