@@ -11,7 +11,11 @@ cover: https://act-webstatic.mihoyo.com/event-static/2023/08/15/3a5636f9e0a9df36
 「欢迎来到提瓦特」2020年09月17日，异世的旅行者「荧」来到了提瓦特大陆
 
 <!-- more -->
+
+2024.8.20 卸载退游。
+
 ---
+
 <p style="text-align:center">
 檄原神文<br>
 每日骂原神，
