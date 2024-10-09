@@ -16,7 +16,7 @@
   "dependencies": {
     "valaxy": "^0.20.0-beta.5",
     "valaxy-addon-lightgallery": "^0.0.3",
-    "valaxy-theme-yun": "^0.20.0-beta.10"
+    "valaxy-theme-yun": "^0.20.0-beta.14"
   },
   "devDependencies": {
     "typescript": "^5.2.2"
