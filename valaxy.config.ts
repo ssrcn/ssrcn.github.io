@@ -12,6 +12,7 @@ const safelist = [
  */
 export default defineValaxyConfig<UserThemeConfig>({
   // site config see site.config.ts
+  siteConfig: {},
 
   theme: 'yun',
 

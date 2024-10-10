@@ -53,4 +53,8 @@ export default defineSiteConfig({
   mediumZoom: {
     enable: true,
   },
+
+  statistics: {
+    enable: true, 
+  },
 })
