@@ -37,19 +37,19 @@ export default defineValaxyConfig<UserThemeConfig>({
 
     pages: [
       {
-        name: '友人帐',
+        name: '流光相册',
+        url: '/albums',
+        icon: 'i-ri-gallery-line',
+        // color: 'skyblue',
+      },
+      {
+        name: '友人链接',
         url: '/links',
         icon: 'i-ri-user-star-line',
         color: 'dodgerblue',
       },
       {
-        name: '相册',
-        url: '/albums',
-        icon: 'i-ri-gallery-line',
-        color: 'skyblue',
-      },
-      {
-        name: '铜雀台',
+        name: '红豆相思',
         url: '/girls',
         icon: 'i-ri-user-heart-line',
         color: 'hotpink',
