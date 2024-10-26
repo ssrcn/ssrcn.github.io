@@ -6,6 +6,7 @@ links: /json/links.json
 random: false
 aside: false
 nav: false
+time_warning: false
 ---
 
 <YunLinks :links="frontmatter.links" :random="frontmatter.random" />

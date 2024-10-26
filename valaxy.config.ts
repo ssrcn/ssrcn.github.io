@@ -43,13 +43,13 @@ export default defineValaxyConfig<UserThemeConfig>({
         // color: 'skyblue',
       },
       {
-        name: '友人链接',
+        name: '友情链接',
         url: '/links',
         icon: 'i-ri-user-star-line',
         color: 'dodgerblue',
       },
       {
-        name: '红豆相思',
+        name: '红颜列表',
         url: '/girls',
         icon: 'i-ri-user-heart-line',
         color: 'hotpink',
