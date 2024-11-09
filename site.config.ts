@@ -20,7 +20,7 @@ export default defineSiteConfig({
     },
     {
       name: 'GitHub',
-      link: 'https://github.com/cnlty',
+      link: 'https://github.com/ssrcn',
       icon: 'i-ri-github-line',
       color: '#6e5494',
     },
