@@ -3,14 +3,17 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://www.icn.asia/',
   lang: 'zh-CN',
-  title: '休伯利安',
+  languages: ['zh-CN'],
+  title: '叶落知秋',
   author: {
-    name: '方仲',
+    name: '方柊',
     avatar: '/avatar.jpg',
   },
   favicon: '/favicon.ico',
-  subtitle: '休伯利安启航',
-  description: '永恒轮回的不沉之船',
+  subtitle: '见微知著 识人心智',
+  description: '一叶落知天下秋',
+  // subtitle: '休伯利安启航',
+  // description: '永恒轮回的不沉之船',
   social: [
     {
       name: 'RSS',
