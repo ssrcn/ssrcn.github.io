@@ -74,7 +74,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         icp: '',
       },
       icon: {
-        title: '惟依',
+        title: '方柊',
         url: '/',
       }
     },
