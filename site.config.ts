@@ -3,6 +3,7 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://www.icn.asia/',
   lang: 'zh-CN',
+  languages: ['zh-CN'],
   title: '叶落知秋',
   author: {
     name: '方柊',
