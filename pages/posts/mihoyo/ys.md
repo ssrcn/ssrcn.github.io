@@ -2,6 +2,7 @@
 layout: post
 title: 原神
 date: 2020-09-17
+updated: 2024-08-20
 categories: [mihoyo]
 tags: [原神]
 end: true

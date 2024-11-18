@@ -2,6 +2,7 @@
 layout: post
 title: 崩坏3
 date: 2021-03-20
+updated: 2021-03-20
 categories: [mihoyo]
 tags: [崩坏3]
 end: true

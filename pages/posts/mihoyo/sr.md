@@ -2,6 +2,7 @@
 layout: post
 title: 崩坏：星穹铁道
 date: 2023-04-26
+updated: 2023-04-26
 categories: [mihoyo]
 tags: [崩坏：星穹铁道]
 end: true
