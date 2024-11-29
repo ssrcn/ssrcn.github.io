@@ -3,7 +3,7 @@ layout: post
 title: 崩坏3
 date: 2021-03-20
 updated: 2021-03-20
-categories: [mihoyo]
+categories: [miHoYo]
 tags: [崩坏3]
 end: true
 cover: https://uploadstatic.mihoyo.com/contentweb/20191114/2019111410133010929.jpg?x-oss-process=image/resize,s_700
