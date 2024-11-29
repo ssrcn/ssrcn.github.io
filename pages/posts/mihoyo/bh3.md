@@ -13,6 +13,10 @@ cover: https://uploadstatic.mihoyo.com/contentweb/20191114/2019111410133010929.j
 
 <!-- more -->
 
+永恒轮回的不沉之船  
+休伯利安启航  
+为世界上所有的美好而战  
+
 :::details Kevin Kaslana  凯文·卡斯兰娜
 ![Kevin Kaslana](https://upload-bbs.miyoushe.com/upload/2023/02/21/73565430/81064aa6f2a41aa8ccfff738cc566661_377107797167084010.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
 <p style="text-align:center">

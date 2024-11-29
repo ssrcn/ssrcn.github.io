@@ -19,7 +19,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: '为世界上所有的美好而战',
+      title: '启航',
       cloud: {
         enable: false,
       },
