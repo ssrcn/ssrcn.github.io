@@ -4,7 +4,8 @@ nav: false
 time_warning: false
 ---
 
-## 网站介绍
+## 网站介绍 {lang="zh-CN"}
+## Website {lang="en"}
 
 ::: zh-CN
 - 驱动：[Valaxy](https://valaxy.site/)
