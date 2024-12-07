@@ -7,6 +7,7 @@ aplayer: true
 categories: [随笔]
 tags: [随笔]
 top: 1
+cover: https://s21.ax1x.com/2024/12/06/pATsFBR.jpg
 ---
 
 <div style="text-align:center;font-family:KaiTi;color:red">你好, 朋友!</div>

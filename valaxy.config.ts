@@ -66,9 +66,9 @@ export default defineValaxyConfig<UserThemeConfig>({
       enable: true,
       content: '当你为错过太阳而哭泣的时侯，你也要再错过群星了。',
     },
-    
+
     footer: {
-      since: 2012,
+      since: 2020,
       beian: {
         enable: false,
         icp: '',
