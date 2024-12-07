@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/gallery-BCL3TcIy.js","assets/app-Dwd4YAGj.js","assets/app-BgsbPLyJ.css","assets/YunPageHeader.vue_vue_type_script_setup_true_lang-DlnfNHfk.js","assets/gallery-CckDB_sr.css"])))=>i.map(i=>d[i]);
+import{d as a,ag as n,o,f as t,e as s,S as _,U as c}from"./app-Dwd4YAGj.js";const l=a({__name:"Gallery",setup(f){n({meta:[{name:"referrer",content:"no-referrer"}]});const r=_(()=>c(()=>import("./gallery-BCL3TcIy.js").then(e=>e.g),__vite__mapDeps([0,1,2,3,4])));return(e,m)=>(o(),t(s(r)))}});export{l as default};
