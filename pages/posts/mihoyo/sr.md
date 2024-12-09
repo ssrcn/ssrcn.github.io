@@ -4,7 +4,7 @@ title: 崩坏：星穹铁道
 date: 2023-04-26
 updated: 2023-04-26
 categories: [miHoYo]
-tags: [崩坏：星穹铁道]
+tags: [miHoYo]
 end: true
 cover: https://upload-bbs.miyoushe.com/upload/2022/07/06/288909601/a0030dfa5a76ee9af852c87967fa3107_7126396285551611919.png?x-oss-process=image//resize,s_700/quality,q_80/auto-orient,0/interlace,1/format,png
 ---
