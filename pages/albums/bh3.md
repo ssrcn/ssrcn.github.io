@@ -27,5 +27,15 @@ photos: [
         "caption": "黑希特饮",
         "desc": "希儿世界第一可爱"
     },
+    {
+        "src": "https://cdn.fanghsiu.top/gh/fanghsiu/cdn@2d191268ec9c0a3b7e5c47041a67cb187064c951/img/LunarVow_bride.jpg",
+        "caption": "婚纱月下",
+        "desc": "婚纱月下"
+    },
+    {
+        "src": "https://cdn.fanghsiu.top/gh/fanghsiu/cdn@2d191268ec9c0a3b7e5c47041a67cb187064c951/img/SeeleVollerei.png",
+        "caption": "希儿",
+        "desc": "希儿"
+    }
 ]
 ---

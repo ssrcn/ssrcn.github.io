@@ -3,7 +3,7 @@ title: Valaxy Yun 主题测试
 date: 2024-12-01
 updated: 2024-12-01
 password_hint: 密码是 test
-cover: /img/default-cover.jpg
+cover: /images/default-cover.jpg
 categories: [测试]
 tags: [测试]
 excerpt: 用于测试 valaxy-theme-yun 中的某些功能。

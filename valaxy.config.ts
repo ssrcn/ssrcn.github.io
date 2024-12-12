@@ -64,7 +64,7 @@ export default defineValaxyConfig<UserThemeConfig>({
 
     notice: {
       enable: true,
-      content: '当你为错过太阳而哭泣的时侯，你也要再错过群星了。',
+      content: '<p style="color:#ee1c25">富强　民主　文明　和谐 <br> 自由　平等　公正　法治 <br> 爱国　敬业　诚信　友善</p>',
     },
 
     footer: {
