@@ -1,7 +1,7 @@
 {
   "name": "ssrcn.github.io",
   "type": "module",
-  "version": "0.20.0",
+  "version": "0.21.0",
   "private": true,
   "scripts": {
     "build": "npm run build:ssg && npm run rss && npm run fuse",
@@ -14,9 +14,9 @@
     "new": "valaxy new"
   },
   "dependencies": {
-    "valaxy": "^0.20.7",
-    "valaxy-addon-lightgallery": "^0.0.3",
-    "valaxy-theme-yun": "^0.20.7"
+    "valaxy": "^0.21.0",
+    "valaxy-addon-lightgallery": "^0.0.4",
+    "valaxy-theme-yun": "^0.21.0"
   },
   "devDependencies": {
     "typescript": "^5.2.2"

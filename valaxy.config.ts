@@ -37,6 +37,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         name: '流光相册',
         url: '/albums',
         icon: 'i-ri-gallery-line',
+        color: '#006CD0'
         // color: 'skyblue',
       },
       {
