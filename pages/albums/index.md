@@ -3,7 +3,7 @@ layout: Albums
 nav: false
 albums: [
     {
-        "url": "/albums/gallery",
+        "url": "/albums/vsinger",
         "cover": "https://avatars.githubusercontent.com/u/79364623",
         "caption": "洛天依",
         "desc": "华风夏韵 洛水天依"
