@@ -15,10 +15,10 @@ albums: [
         "desc": "bh3"
     },
     {
-        "url": "/albums/blog",
+        "url": "/albums/images",
         "cover": "/images/default-cover.jpg",
         "caption": "博客图片",
         "desc": "博客图片"
-    },
+    }
 ]
 ---
