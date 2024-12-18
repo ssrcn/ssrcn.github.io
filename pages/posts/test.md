@@ -22,13 +22,13 @@ $$ \color{#EE1C25} E = mc^2 $$
 ### 部分内容加密
 ```md
 <!-- valaxy-encrypt-start:your_password -->
-:::info
+:::info 加密信息
 {{ frontmatter.title }}
 :::
 <!-- valaxy-encrypt-end -->
 ```
 <!-- valaxy-encrypt-start:test -->
-:::info 
+:::info 加密信息
 {{ frontmatter.title }}
 :::
 <!-- valaxy-encrypt-end -->

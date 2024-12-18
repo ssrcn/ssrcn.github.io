@@ -70,14 +70,14 @@ export default defineValaxyConfig<UserThemeConfig>({
 
     footer: {
       since: 2020,
+      icon: {
+        title: '方柊',
+        url: '/',
+      },
       beian: {
         enable: false,
         icp: '',
       },
-      icon: {
-        title: '方柊',
-        url: '/',
-      }
     },
   },
 

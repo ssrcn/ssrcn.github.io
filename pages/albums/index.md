@@ -14,5 +14,11 @@ albums: [
         "caption": "bh3",
         "desc": "bh3"
     },
+    {
+        "url": "/albums/blog",
+        "cover": "/images/default-cover.jpg",
+        "caption": "博客图片",
+        "desc": "博客图片"
+    },
 ]
 ---
