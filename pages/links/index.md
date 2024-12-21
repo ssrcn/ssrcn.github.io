@@ -7,6 +7,7 @@ random: false
 aside: false
 nav: false
 time_warning: false
+cover: false
 ---
 
 <YunLinks :links="frontmatter.links" :random="frontmatter.random" />

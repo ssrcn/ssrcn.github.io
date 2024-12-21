@@ -1,6 +1,6 @@
 ---
 layout: Gallery
-nav: false
+cover: false
 photos: [
     {
         "src": "https://upload-bbs.miyoushe.com/upload/2023/03/03/73565430/48f69c796fdcadf579cb613e802e21b2_4673042289353917016.png?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png",

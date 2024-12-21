@@ -1,6 +1,6 @@
 ---
 layout: Albums
-nav: false
+cover: false
 albums: [
     {
         "url": "/albums/vsinger",

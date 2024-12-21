@@ -3,6 +3,7 @@ title: 关于站点
 nav: false
 time_warning: false
 medium_zoom: false
+cover: /images/default-cover.jpg
 ---
 
 ## 网站详情 {lang="zh-CN"}

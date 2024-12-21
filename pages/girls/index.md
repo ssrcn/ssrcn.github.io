@@ -7,6 +7,7 @@ random: false
 aside: false
 nav: false
 time_warning: false
+cover: false
 ---
 
 <YunGirls :girls="frontmatter.girls" :random="frontmatter.random" />

@@ -1,6 +1,6 @@
 ---
 layout: Gallery
-nav: false
+cover: false
 photos: [
     {
         "src": "https://avatars.githubusercontent.com/u/79364623",
