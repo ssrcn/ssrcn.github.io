@@ -2,14 +2,14 @@
 title: 关于站点
 nav: false
 time_warning: false
-medium_zoom: false
-cover: /images/default-cover.jpg
 ---
 
 ## 网站详情 {lang="zh-CN"}
 ## Website Details {lang="en"}
 
 伟大！无需多言。
+
+![神郭嘉](https://sgssj-hdimg.oss-cn-hangzhou.aliyuncs.com/skins/image/skins672207c837df920241030.jpg "见微知著 识人心智")
 
 <!--
 ::: zh-CN

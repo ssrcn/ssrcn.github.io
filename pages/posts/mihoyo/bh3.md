@@ -5,13 +5,10 @@ date: 2021-03-20
 updated: 2021-03-20
 categories: [miHoYo]
 tags: [miHoYo]
-end: true
 cover: https://uploadstatic.mihoyo.com/contentweb/20191114/2019111410133010929.jpg?x-oss-process=image/resize,s_700
 ---
 
 数据库资料：舰长于 2021-03-30 首次登陆休伯利安
-
-<!-- more -->
 
 永恒轮回的不沉之船  
 休伯利安启航  

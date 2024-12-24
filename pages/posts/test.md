@@ -1,5 +1,5 @@
 ---
-title: Valaxy Yun 主题测试
+title: 功能测试
 date: 2024-12-01
 updated: 2024-12-01
 password_hint: 密码是 test
