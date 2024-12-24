@@ -12,4 +12,4 @@ cover: false
 
 <YunGirls :girls="frontmatter.girls" :random="frontmatter.random" />
 
-![泳装洛天依](https://image-sh.jsdmirror.com/gh/fanghsiu/cdn@master/images/luotianyi_swimsuit_compress.jpg "泳装洛天依")
+![泳装洛天依](https://cdn.jsdmirror.com/gh/fanghsiu/cdn@master/images/luotianyi_swimsuit_compress.jpg "泳装洛天依")
