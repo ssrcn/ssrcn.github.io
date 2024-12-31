@@ -1,6 +1,5 @@
 ---
 layout: gallery
-cover: false
 gallery_password: images
 photos: [
   {

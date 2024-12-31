@@ -12,11 +12,7 @@ const safelist = [
  */
 export default defineValaxyConfig<UserThemeConfig>({
   // site config see site.config.ts
-  siteConfig: {
-    frontmatter: {
-      cover: '/images/default-cover.jpg'
-    },
-  },
+  siteConfig: {},
 
   theme: 'yun',
 
