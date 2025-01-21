@@ -38,7 +38,7 @@ function usePagination(options: {
 
   function getTo(i: number) {
     if (i === 1)
-      return "/posts"
+      return "/page/1"
     else return `/page/${i}`
   }
 

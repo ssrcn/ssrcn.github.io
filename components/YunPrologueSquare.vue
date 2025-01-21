@@ -82,7 +82,7 @@ const showContent = ref(false)
             :page="{
               name: `博客文章`,
               icon: `i-ri-article-line`,
-              url: `/posts`,
+              url: `/page/1`,
             }"
           />
           <slot />

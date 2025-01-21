@@ -3,14 +3,14 @@ import { defineSiteConfig } from "valaxy"
 export default defineSiteConfig({
   url: "https://lovelty.cn",
   lang: "zh-CN",
-  title: "叶落知秋",
+  title: "Love天依",
   author: {
     name: "方柊",
     avatar: "/avatar.jpg",
   },
   favicon: "/favicon.ico",
-  subtitle: "见微知著 识人心智",
-  description: "一叶落知天下秋",
+  subtitle: "华风夏韵 洛水天依",
+  description: "Chase",
   social: [
     {
       name: "RSS",
