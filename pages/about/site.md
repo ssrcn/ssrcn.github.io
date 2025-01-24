@@ -9,7 +9,9 @@ time_warning: false
 
 伟大！无需多言。
 
-![神郭嘉](https://sgssj-hdimg.oss-cn-hangzhou.aliyuncs.com/skins/image/skins672207c837df920241030.jpg "见微知著 识人心智")
+![洛天依](https://res.vsinger.com/images/e4a5e56fa3a1817244195f15ce5dcda9.jpg "华风夏韵 洛水天依")
+
+<!-- ![神郭嘉](https://sgssj-hdimg.oss-cn-hangzhou.aliyuncs.com/skins/image/skins672207c837df920241030.jpg "见微知著 识人心智") -->
 
 <!--
 ::: zh-CN
