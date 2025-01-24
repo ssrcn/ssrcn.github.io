@@ -8,7 +8,6 @@ tags: [China]
 cover: https://s21.ax1x.com/2024/08/10/pASwSXj.png
 ---
 
-
 ## 国歌《义勇军进行曲》
 
 <meting-js 
@@ -19,6 +18,8 @@ cover: https://s21.ax1x.com/2024/08/10/pASwSXj.png
     loop="none"
     theme="#ee1c25">
 </meting-js>
+
+![](/images/cn.svg)
 
 :::tip 《义勇军进行曲》歌词
 起来！
